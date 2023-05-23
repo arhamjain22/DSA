@@ -10,7 +10,7 @@ int main()
         cout<<"Value"<<n1;
     }
     else{
-        cout<<"value"<<n1+n2;
+        cout<<"value "<<n1+n2;
     }
 
     return 0;
